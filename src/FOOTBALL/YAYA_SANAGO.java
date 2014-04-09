@@ -19,5 +19,4 @@ public class YAYA_SANAGO {
 	public String[] getfriend(){
 		return friend;
 	}
-	
 }
