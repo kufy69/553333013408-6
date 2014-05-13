@@ -25,7 +25,7 @@ public class tree {
 	}
 
 	public static void main(String[] args) {
-		BinaryTree binaryTree = new BinaryTree();
+		tree binaryTree = new tree();
 		Node right3 = new Node("f",null,null);
 		Node right2 = new Node("e",null,null);
 		Node left2 = new Node("d", null, null);
